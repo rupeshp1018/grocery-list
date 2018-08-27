@@ -1,15 +1,5 @@
 # Grocery List
-GitHub repo. Url
-
-```
-https://github.com/rupeshp1018/grocery-list
-```
-
-## Initial setup 
-go to project root directory and run
-```
-$ npm install
-```
+Download this project with git Clone or using git Desktop
 
 ## running project
 
