@@ -1,5 +1,5 @@
 # Grocery List
-Download this project with git Clone or using git Desktop
+Download this project or clone with **git Clone**
 
 ## running project
 
